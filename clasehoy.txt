@@ -1,0 +1,9 @@
+los temas que tratamos hoy fueron 
+crear una nueva rama pra no afectar la principal
+aprendimos a mirar cuantas rams tenemos 
+cambiamos de rama aprendimos a mirar lo que contiene los archivos
+agregar los cambios de la rama a la principal y subir al repositorio del github
+
+que es un control de vrsiones: 
+
+un control de versiones, nos permite llevar un seguimiento de nuestro trabajo a la hora de llevar una tarea para un fuljo de trabajo mucho mejor

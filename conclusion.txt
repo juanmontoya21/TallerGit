@@ -1,0 +1,1 @@
+aprendimos a usar la consola de git el cual nos facilita guardar nuestro codigo de forma remota y adiccionar podemos trabajar varios programadores e unas de esas ramas que creamos asi le llevamos el historial de versiones del programa realizados
