@@ -7,3 +7,6 @@ agregar los cambios de la rama a la principal y subir al repositorio del github
 que es un control de vrsiones: 
 
 un control de versiones, nos permite llevar un seguimiento de nuestro trabajo a la hora de llevar una tarea para un fuljo de trabajo mucho mejor
+
+escribiendo ramas para ignorar archivos para no ser comprometidos en el area de trabajo
+cambiar de rama y volver a la principal
